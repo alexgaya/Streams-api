@@ -1,0 +1,14 @@
+{
+  "streams": [
+    {
+      "title": "myStream",
+      "description": "gr8 stream",
+      "id": 1
+    },
+    {
+      "title": "testStreammMM",
+      "description": "testtting",
+      "id": 3
+    }
+  ]
+}
